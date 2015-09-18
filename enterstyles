@@ -1,0 +1,28 @@
+  
+
+
+  #world {
+
+font-family: 'coolfont', CenturyGothic, AppleGothic, sans-serif;
+text-align: center;
+font-size: 300%;
+border: 2px;
+
+
+
+
+}
+
+a:link {color: white; text-decoration: none; }
+a:active {color: white; text-decoration: none; }
+a:visited {color: white; text-decoration: none; }
+a:hover {color: white; text-decoration: none; }
+
+
+html {
+
+     background-color: white;
+    background-image: url("ENGblur.jpeg");
+    background-size: cover;
+
+}
